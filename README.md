@@ -20,4 +20,7 @@
 - Looked for solutions online
 
 ## Screenshots
-(Added below)
+
+![Screenshot 1](Screenshot.png)
+
+![Screenshot 2](Screenshot2.png)
