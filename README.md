@@ -21,6 +21,6 @@
 
 ## Screenshots
 
-![Screenshot 1](Screenshot .png)
+![](./Screenshot%20.png)
 
-![Screenshot 2](Screenshot 2.png)
+![](./Screenshot%202.png)
